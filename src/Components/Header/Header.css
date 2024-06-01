@@ -1,0 +1,46 @@
+.header {
+  width: 1200px;
+  height: 90px;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  background-color: white;
+  padding-top: 0;
+}
+
+.headerRight{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 178px;
+  height: 42px;
+}
+
+ul {
+  display: flex;
+  gap: 20px;
+}
+
+li {
+  list-style-type: none;
+  font-family: sans-serif;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+
+}
+
+.headerLeft {
+  display: flex;
+  align-items: center;
+}
+
+.header-p{
+  font-family: sans-serif;
+  padding-right: 20px;
+}

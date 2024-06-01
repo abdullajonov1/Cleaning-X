@@ -1,0 +1,72 @@
+.about-h1 {
+  color: #211F54;
+  font-family: sans-serif;
+}
+
+.aboutFirst {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  /* width: 600px; */
+  /* height: 61px; */
+  /* top: 78px;
+  left: 8px; */
+
+
+}
+
+.about-p {
+  width: 500px;
+  height: 61px;
+  padding-left: 350px;
+  top: 78px;
+  text-align: center;
+  font-family: sans-serif;
+  color: #6E7191;
+}
+
+.aboutSecond {
+  gap: 100px;
+  justify-content: space-between;
+}
+
+.frame1 {
+  width: 350px;
+  height: 392px;
+  left: 7px;
+  /* padding-left: 30px; */
+}
+
+.frame2 {
+  width: 350px;
+  height: 385px;
+  left: 423px;
+  padding-left: 80px;
+
+}
+
+.frame3 {
+  width: 350px;
+  height: 392px;
+  left: 839px;
+  padding-left: 70px;
+
+}
+
+.about-btn {
+  width: 174px;
+  height: 54px;
+  border-radius: 10px;
+  background-color: white;
+  border: 1px solid rgb(168, 167, 167);
+  font-family: sans-serif;
+  color: black;
+  margin-left: 40px;
+  cursor: pointer;
+}
+
+.aboutThird{
+  
+  text-align: center;
+
+}

@@ -1,0 +1,48 @@
+.articles{
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.articles-btn{
+  width: 174px;
+  height: 54px;
+  border-radius: 10px;
+  background-color: white;
+  border: 1px solid rgb(168, 167, 167);
+  font-family: sans-serif;
+  color: black;
+  cursor: pointer;
+}
+
+.articlesFirst{
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 20px;
+}
+
+.articles-btn{
+  margin-left: 80px;
+}
+
+.articlesSecond{
+  justify-content: space-between;
+  /* gap: 30px; */
+}
+
+.artCard1{
+  width: 586px;
+  height: 620px;
+}
+
+.artCard2{
+  width: 586px;
+  height: 620px;
+  margin-left: 28px;
+}
+
+.articles-h1{
+  font-family: sans-serif;
+  color: #211F54;
+  font-size: 38px;
+}

@@ -1,0 +1,44 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 50px;
+  max-width: 100%;
+}
+
+.heroimg {
+  width: 595px;
+  height: 604px;
+  /* padding-right: -300px; */
+  /* padding-left: 100px; */
+}
+
+.hero-h1 {
+  color: #211F54;
+  font-family: sans-serif;
+  font-size: 55px;
+  font-weight: 550;
+  text-align: left;
+
+}
+
+.hero-p {
+  color: #6E7191;
+  width: 510px;
+  height: 91px;
+  top: 167px;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  /* line-height: 30.01px; */
+  text-align: left;
+
+}
+
+.heroLeft{
+  width: 450px;
+}
+
+.hero-wrapper{
+  display: flex;
+  justify-content: space-between;
+}

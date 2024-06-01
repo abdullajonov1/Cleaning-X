@@ -1,0 +1,29 @@
+.services {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.services-btn {
+  width: 174px;
+  height: 54px;
+  border-radius: 10px;
+  background-color: white;
+  border: 1px solid rgb(168, 167, 167);
+  font-family: sans-serif;
+  color: black;
+  cursor: pointer;
+}
+
+.servicesFirst {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.services-h1 {
+  font-family: sans-serif;
+  color: #211F54;
+  width: 475px;
+  height: 58px;
+  font-size: 40px;
+}
